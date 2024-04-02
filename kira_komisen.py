@@ -28,5 +28,6 @@ while ulang=="Y":
     #input
     ulang=input("Masukkan Y untuk teruskan pengiraan atau N untuk hentikan pengiraan")
 #output
-print("\n\t...Anda telah selesai membuat pengiraan...")
+print("\n\tJUmlah komisen ialah RM",round(jumlah,2))
+print("\t...Anda telah selesai membuat pengiraan...")
     
